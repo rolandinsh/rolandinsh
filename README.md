@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- I’m PHP (freelance) developer at [@republa][republagithub] / [@simplemediacode][smcgithub] 
+- Employer: [Transact Pro][tprogithub]
+- My stack: @[stackshare][stacksharerolandinsh]
+- CV: @[LinkedIN][linkedinumbrovskis]
+
 <!--
 **rolandinsh/rolandinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[republagithub]: https://github.com/republa
+[smcgithub]: https://github.com/simplemediacode
+[stacksharerolandinsh]: https://stackshare.io/rolandinsh
+[linkedinumbrovskis]: https://linkedin.com/in/umbrovskis
+[tprogithub]: https://github.com/TransactPRO
