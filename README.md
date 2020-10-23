@@ -1,9 +1,19 @@
 ### Hi there 👋
 
 - I’m PHP (freelance) developer at [@republa][republagithub] / [@simplemediacode][smcgithub] 
-- Employer: [Transact Pro][tprogithub]
+- Employed: [@Transact Pro][tprogithub]
 - My stack: @[stackshare][stacksharerolandinsh]
 - CV: @[LinkedIN][linkedinumbrovskis]
+- Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom]
+
+## Blogi un projekti (LV)
+
+- blogs latviski [rolandinsh.lv][rolandinshlv] 
+- WordPress mājas lapu izstrāde [MediaBox.lv][mediaboxlv] 
+
+## Blogs and projects (EN)
+
+- English blog [rolandinsh.com][rolandinshcom] 
 
 <!--
 **rolandinsh/rolandinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,3 +35,8 @@ Here are some ideas to get you started:
 [stacksharerolandinsh]: https://stackshare.io/rolandinsh
 [linkedinumbrovskis]: https://linkedin.com/in/umbrovskis
 [tprogithub]: https://github.com/TransactPRO
+[rolandinshlv]: https://rolandinsh.lv
+[rolandinshcom]: https://rolandinsh.com
+[mediaboxlv]: https://mediabox.lv
+[rolandseu]: https://rolands.eu
+[umbrovskiscom]: https://umbrovskis.com
