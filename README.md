@@ -1,10 +1,11 @@
 ### Hi there 👋
 
 - I’m PHP (freelance) developer at [@republa][republagithub] / [@simplemediacode][smcgithub] 
-- Employed: [@Transact Pro][tprogithub]
+- Work at: [@Republa(.media)][githubrepubla]
 - My stack: @[stackshare][stacksharerolandinsh]
 - CV: @[LinkedIN][linkedinumbrovskis]
-- Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom]
+- Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
+- Last employed: [@Transact Pro][tprogithub]
 
 ## Blogi un projekti (LV)
 
@@ -40,3 +41,4 @@ Here are some ideas to get you started:
 [mediaboxlv]: https://mediabox.lv
 [rolandseu]: https://rolands.eu
 [umbrovskiscom]: https://umbrovskis.com
+[githubrepubla]: https://github.com/republa
