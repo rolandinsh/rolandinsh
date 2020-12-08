@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - I’m PHP (freelance) developer at [@republa][republagithub] / [@simplemediacode][smcgithub] 
-- Work at: [@Republa(.media)][githubrepubla]
+- Work at: [@Republa(.media)][githubrepubla] / [@MediaBoxLV](githubmediaboxlv)
 - My stack: [stackshare.io/rolandinsh][stacksharerolandinsh]
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
@@ -42,3 +42,4 @@ Here are some ideas to get you started:
 [rolandseu]: https://rolands.eu
 [umbrovskiscom]: https://umbrovskis.com
 [githubrepubla]: https://github.com/republa
+[githubmediaboxlv]: https://github.com/mediaboxlv
