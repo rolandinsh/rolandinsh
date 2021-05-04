@@ -9,7 +9,7 @@
 
 ## Blogi un projekti (LV)
 
-- blogs latviski [rolandinsh.lv][rolandinshlv] 
+- blogs latviski [republa.lv][republalv] (ex rolandinsh.lv)
 - WordPress mājas lapu izstrāde [MediaBox.lv][mediaboxlv] 
 
 ## Blogs and projects (EN)
@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 [stacksharerolandinsh]: https://stackshare.io/rolandinsh
 [linkedinumbrovskis]: https://linkedin.com/in/umbrovskis
 [tprogithub]: https://github.com/TransactPRO
-[rolandinshlv]: https://rolandinsh.lv
+[republalv]: https://republa.lv
 [rolandinshcom]: https://rolandinsh.com
 [mediaboxlv]: https://mediabox.lv
 [rolandseu]: https://rolands.eu
