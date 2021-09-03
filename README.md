@@ -21,7 +21,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
 
-[![Time on code (from 2021-09-02)](https://github-readme-stats.vercel.app/api/wakatime?username=662bb586-482e-429e-bdbb-399877f30ff3&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
+[![Time on code (from 2021-09-02)](https://github-readme-stats.vercel.app/api/wakatime?username=rolandinsh&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
 
 <!--
 **rolandinsh/rolandinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
