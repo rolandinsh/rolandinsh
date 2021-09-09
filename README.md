@@ -23,7 +23,7 @@
 
 From 2021-09-02 (non-NDA projects):
 
-[![Time on code](https://github-readme-stats.vercel.app/api/wakatime?username=rolandinsh&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
+[![Time on code](https://github-readme-stats.vercel.app/api/wakatime?username=rolandinsh&layout=compact&cache_seconds=1800)][dailytechstack]
 
 <!--
 **rolandinsh/rolandinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -56,3 +56,4 @@ https://github.com/anuraghazra/github-readme-stats#wakatime-card-exclusive-optio
 [umbrovskiscom]: https://umbrovskis.com
 [githubrepubla]: https://github.com/republa
 [githubmediaboxlv]: https://github.com/mediaboxlv
+[dailytechstack]: https://go.mediabox.lv/dailytechstack
