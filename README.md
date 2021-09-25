@@ -5,7 +5,10 @@
 - My stack: [stackshare.io/rolandinsh][stacksharerolandinsh]
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
-- Last employed: [@Transact Pro][tprogithub]
+- Employed: 
+- - 2021-05 - ... [@Adaptive-Media][amgithub] 
+- - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
+- - Accenture, Avon, ... 
 
 ## Blogi un projekti (LV)
 
@@ -57,3 +60,4 @@ https://github.com/anuraghazra/github-readme-stats#wakatime-card-exclusive-optio
 [githubrepubla]: https://github.com/republa
 [githubmediaboxlv]: https://github.com/mediaboxlv
 [dailytechstack]: https://go.mediabox.lv/dailytechstack
+[amgithub]: https://github.com/Adaptive-Media
