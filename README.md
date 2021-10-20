@@ -24,7 +24,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
 
-From 2021-09-02 (non-NDA projects):
+From 2021-09-02 (weekly, excluding NDA projects):
 
 [![Time on code](https://github-readme-stats.vercel.app/api/wakatime?username=rolandinsh&layout=compact&cache_seconds=1800)][dailytechstack]
 
