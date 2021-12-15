@@ -5,8 +5,9 @@
 - My stack: [stackshare.io/rolandinsh][stacksharerolandinsh]
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
-- Employed: 
+- Currently employed at 
 - - 2021-05 - ... [@Adaptive-Media][amgithub] 
+- Employed: 
 - - 2021-03 - 2021-05 Gaming Innovation Group
 - - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
 - - Accenture, Avon, ... 
