@@ -7,6 +7,7 @@
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
 - Employed: 
 - - 2021-05 - ... [@Adaptive-Media][amgithub] 
+- - 2021-03 - 2021-05 Gaming Innovation Group
 - - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
 - - Accenture, Avon, ... 
 
