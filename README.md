@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-- I’m senior PHP developer at [@republa][republagithub] / [@simplemediacode][smcgithub] (freelancer)
-- Self-employed at: [@Republa(.media)][githubrepubla] / [@MediaBoxLV][githubmediaboxlv]
+- I’m 
+  - Senior PHP developer at [@republa][republagithub] / [@simplemediacode][smcgithub] (freelancer)
+  - IT project manager at [@Adaptive-Media][amgithub] (full-time) / Senior WordPress developer
+  - Self-employed at: [@Republa(.media)][githubrepubla] / [@MediaBoxLV][githubmediaboxlv]
 - My stack: [stackshare.io/rolandinsh][stacksharerolandinsh]
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
 - Currently employed at 
-- - 2021-05 - ... [@Adaptive-Media][amgithub] 
+  - 2021-05 - ... [@Adaptive-Media][amgithub] 
 - Employed: 
-- - 2021-03 - 2021-05 Gaming Innovation Group
-- - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
-- - Accenture, Avon, ... 
+  - 2021-03 - 2021-05 Gaming Innovation Group
+  - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
+  - Accenture, Avon, Gaming Innovation Group, ... 
 
 ## Blogi un projekti (LV)
 
@@ -21,6 +23,7 @@
 
 - English blog [rolandinsh.com][rolandinshcom] 
 
+## Programming stats for public/side projects
 
 [![Rolands' GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandinsh&count_private=true&show_icons=true&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh/)
 
