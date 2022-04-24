@@ -8,11 +8,12 @@
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
 - Currently employed at 
-  - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] 
+  - 2022-04 ... 
 - Employed: 
+  - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] 
   - 2021-03 - 2021-05 Gaming Innovation Group
   - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
-  - Accenture, Avon, Gaming Innovation Group, ... 
+  - Accenture, Avon, ... 
 
 ## Blogi un projekti (LV)
 
