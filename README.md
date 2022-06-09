@@ -2,7 +2,6 @@
 
 - I’m 
   - Senior PHP developer at [@republa][republagithub] / [@simplemediacode][smcgithub] (freelancer)
-  - IT project manager at [@Adaptive-Media][amgithub] (full-time) / Senior WordPress developer
   - Self-employed at: [@Republa(.media)][githubrepubla] / [@MediaBoxLV][githubmediaboxlv]
 - My stack: [stackshare.io/rolandinsh][stacksharerolandinsh]
 - CV: [LinkedIN][linkedinumbrovskis]
@@ -10,7 +9,7 @@
 - Currently employed at 
   - 2022-04 ... 
 - Employed: 
-  - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] 
+  - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] , IT project manager (full-time) / Senior WordPress developer
   - 2021-03 - 2021-05 Gaming Innovation Group
   - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
   - Accenture, Avon, ... 
