@@ -7,11 +7,11 @@
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
 - Currently employed at 
-  - 2022-04 ... 
+  - 2022-04 - ... Conexus Baltic Grid, Information System Development Manager
 - Employed: 
   - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] , IT project manager (full-time) / Senior WordPress developer
-  - 2021-03 - 2021-05 Gaming Innovation Group
-  - 2017-05 - 2020-12 [@Transact Pro][tprogithub] 
+  - 2021-03 - 2021-05 Gaming Innovation Group, Team lead / Senior WordPress developer
+  - 2017-05 - 2020-12 [@Transact Pro][tprogithub], PHP developer
   - Accenture, Avon, ... 
 
 ## Blogi un projekti (LV)
