@@ -9,7 +9,7 @@
 - CV: [LinkedIN][linkedinumbrovskis]
 - Sites: [Rolands.EU][rolandseu], [Umbrovskis.com][umbrovskiscom] 
 - Currently employed at 
-  - 2022-04 - ... Conexus Baltic Grid, Information System Development Manager
+  - 2022-04 - ... Conexus Baltic Grid, Information System Development Manager (full-time)
 - Employed: 
   - 2021-05 - 2022-04 [@Adaptive-Media][amgithub] , IT project manager (full-time) / Senior WordPress developer
   - 2021-03 - 2021-05 Gaming Innovation Group, Team lead / Senior WordPress developer
@@ -27,9 +27,9 @@
 
 ## Programming stats for public/side projects
 
-[![Rolands' GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandinsh&count_private=true&show_icons=true&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh/)
+<!-- //* [![Rolands' GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandinsh&count_private=true&show_icons=true&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh) -->
 
 From 2021-09-02 (weekly, excluding NDA projects):
 
