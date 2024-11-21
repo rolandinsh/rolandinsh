@@ -19,10 +19,12 @@
 ## Blogi un projekti (LV)
 
 - blogs latviski [republa.lv][republalv] (ex rolandinsh.lv)
+- tehnoloģiju blogs latviski [web20.lv][web20lv]
 - WordPress mājas lapu izstrāde [MediaBox.lv][mediaboxlv] 
 
 ## Blogs and projects (EN)
 
+- Tech blog [republa.net][republanet] 
 - English blog [rolandinsh.com][rolandinshcom] 
 
 ## Programming stats for public/side projects
@@ -41,7 +43,6 @@ From 2021-09-02 (weekly, excluding NDA projects):
 
 <!--
 **rolandinsh/rolandinsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 
 Here are some ideas to get you started:
@@ -66,6 +67,8 @@ https://github.com/anuraghazra/github-readme-stats#wakatime-card-exclusive-optio
 [republalv]: https://republa.lv
 [rolandinshcom]: https://rolandinsh.com
 [mediaboxlv]: https://mediabox.lv
+[republanet]: https://republa.net
+[web20lv]: https://web20.lv
 [rolandseu]: https://rolands.eu
 [umbrovskiscom]: https://umbrovskis.com
 [githubrepubla]: https://github.com/republa
