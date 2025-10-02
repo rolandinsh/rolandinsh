@@ -31,12 +31,13 @@
 
 <!-- //* [![Rolands' GitHub stats](https://github-readme-stats.vercel.app/api?username=rolandinsh&count_private=true&show_icons=true&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rolandinsh&langs_count=10&layout=compact&cache_seconds=1800)](https://github.com/rolandinsh) 
 
 From 2021-09-02 (weekly, excluding NDA projects):
 
 [![Time on code](https://github-readme-stats.vercel.app/api/wakatime?username=rolandinsh&layout=compact&cache_seconds=1800)][dailytechstack]
 
+-->
 ## Reference
 
 - _General reference letter_ from CTO of Adaptive Media (employer) (2022-03-22 [e-signed](https://cdneu1.storage.googleapis.com/umbrovskiscom/am/reference_R_Umbrovskis_e_signed.pdf), [scan](https://cdneu1.storage.googleapis.com/umbrovskiscom/am/reference_R_Umbrovskis_scan.pdf))
